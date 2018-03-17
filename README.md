@@ -18,9 +18,9 @@ or build from [source](https://github.com/Findoss/Rainmeter-Machu-Picchu/tree/ma
 **Important!** For the correct work of the AudioControl icons, assign appropriate names (`speakers`/`headset`/`monitor`) to the playback devices
 [Image hint](media/cfg_playback_devices.png)
 
-
-**Activation**
-  1. todo
+**Languages**
+  1. Русский
+  2. English
 
 ## Usage Guide
 ### Audio control
