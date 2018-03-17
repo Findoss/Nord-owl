@@ -1,0 +1,189 @@
+{
+  "config": [
+    {
+      "name": "Main configure",
+      "pathConfigFile": "../@Resources/Variables.inc",
+      "sections": [
+        {
+          "name": "Variables",
+          "inputs": [
+            {
+              "type": "combo", 
+              "key": "Language",
+              "options": [
+                {
+                  "value":"Russian"
+                },
+                {
+                  "value":"English"
+                }
+              ],
+              "default": "Russian"
+            },
+            {
+              "type": "combo", 
+              "key": "Theme",
+              "options": [
+                {
+                  "value":"Light"
+                },
+                {
+                  "value":"Dark"
+                }
+              ],
+              "default": "Light"
+            },
+            {
+              "type": "input", 
+              "key": "Cleaner",
+              "discriotion": "Path CCleaner",
+              "default": "C:/Program Files/CCleaner/CCleaner64.exe"
+            },
+            {
+              "type": "combo", 
+              "key": "DirectionAudioVisualizer",
+              "options": [
+                {
+                  "value":"0",
+                  "text":"top"
+                },
+                {
+                  "value":"1",
+                  "text":"bottom"
+                }
+              ],
+              "default": "1"
+            },
+            {
+              "type": "input", 
+              "key": "Scale",
+              "default": "1"
+            },
+            {
+              "type": "input", 
+              "key": "ScaleTarsh",
+              "default": "1.3",
+              "prefix": "(",
+              "sufix": "*#Scale#)"
+            },
+            {
+              "type": "input", 
+              "key": "ScaleBar",
+              "default": "1",
+              "prefix": "(",
+              "sufix": "*#Scale#)"
+            },
+            {
+              "type": "input", 
+              "key": "ScaleAudioControl",
+              "default": "1.5",
+              "prefix": "(",
+              "sufix": "*#Scale#)"
+            },
+            {
+              "type": "input", 
+              "key": "ScaleAudioVisualizer",
+              "default": "1",
+              "prefix": "(",
+              "sufix": "*#Scale#)"
+            },
+            {
+              "type": "input", 
+              "key": "ScaleInfo",
+              "default": "1",
+              "prefix": "(",
+              "sufix": "*#Scale#)"
+            },
+            {
+              "type": "input", 
+              "key": "ScaleClock",
+              "default": "1",
+              "prefix": "(",
+              "sufix": "*#Scale#)"
+            },
+            {
+              "type": "input", 
+              "key": "ScaleSettings",
+              "default": "1",
+              "prefix": "(",
+              "sufix": "*#Scale#)"
+            }
+          ]
+        },
+        {
+          "name": "StyleFont",
+          "inputs": [
+            {
+              "type": "checkbox",
+              "key": "Antialias",
+              "default": 1
+            },
+            {
+              "type": "input", 
+              "key": "FontFace",
+              "default": "a_FuturicaLt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Light theme",
+      "pathConfigFile": "../@Resources/theme/light.inc",
+      "sections": [
+        {
+          "name": "Variables",
+          "inputs": [
+            {
+              "type": "color",
+              "key": "Color1",
+              "discriotion": "Color white",
+              "default": "0xFFFFFF"
+            },
+            {
+              "type": "color",
+              "key": "Color2",
+              "discriotion": "Color green",
+              "default": "0x78B473"
+            },
+            {
+              "type": "color",
+              "key": "Color3",
+              "discriotion": "Color wood",
+              "default": "0xFFD79B"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dark theme",
+      "pathConfigFile": "../@Resources/theme/dark.inc",
+      "sections": [
+        {
+          "name": "Variables",
+          "inputs": [
+            {
+              "type": "color",
+              "key": "Color1",
+              "discriotion": "Color black",
+              "default": "0x000000"
+            },
+            {
+              "type": "color",
+              "key": "Color2",
+              "discriotion": "Color green",
+              "default": "0x0A640A"
+            },
+            {
+              "type": "color",
+              "key": "Color3",
+              "discriotion": "Color red",
+              "default": "0x640A0A"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
