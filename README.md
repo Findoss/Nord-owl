@@ -7,7 +7,7 @@ An arctic, north-bluish clean and elegant minimal  skins on your desktop.
 Based on the <a href="https://github.com/arcticicestudio/nord">Nord</a> color palette.<br>
 
 ## Preview
-![preview](media/main_preview.png)
+![preview](media/main_preview.gif)
 
 ## Getting started
 **Installation**
