@@ -37,7 +37,7 @@ or build from [source](https://github.com/Findoss/Rainmeter-Machu-Picchu/tree/ma
   **Important!** Path CCleaner in `@Resources/Variables.inc`
 
 ### Clock
-![preview](media/clock.gif)  
+![preview](media/clock.png)  
 > 12h / 24h
 
 ### System info
