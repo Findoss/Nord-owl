@@ -13,7 +13,7 @@ Based on the <a href="https://github.com/arcticicestudio/nord">Nord</a> color pa
 **Installation**
 * Download and install [Rainmeter (4.0+)](https://www.rainmeter.net/)
 * Download and install [last release theme](https://github.com/Findoss/Nord-owl/releases)
-or build from [source](https://github.com/Findoss/Rainmeter-Machu-Picchu/tree/master/Nord-owl)  
+or build from [source](https://github.com/Findoss/Nord-owl/tree/master)  
 
 **Important!** For the correct work of the AudioControl icons, assign appropriate names (`speakers`/`headset`/`monitor`) to the playback devices
 [Image hint](media/cfg_playback_devices.png)
