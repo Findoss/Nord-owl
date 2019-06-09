@@ -58,7 +58,7 @@ Core settings in [Variables.inc](https://github.com/Findoss/Rainmeter-Nord-owl/b
 `Rainmeter/Skins/Nord-owl/@Resources/Variables.inc`
 
 ## Contributing
-Please read [CONTRIBUTING.md](https://github.com/Findoss/Nord-owl/blob/masterCONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/Findoss/Nord-owl/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ### Localization
   1. Copy file to `Nord-owl/@Resources/Language` (file extension only `.inc`)
