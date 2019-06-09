@@ -54,7 +54,7 @@ or build from [source](https://github.com/Findoss/Nord-owl/tree/master)
   * Open settings - click the left mouse button
 
 ## Advanced settings
-Core settings in [Variables.inc](https://github.com/Findoss/Rainmeter-Nord-owl/blob/master/Nord-owl/%40Resources/Variables.inc)
+Core settings in [Variables.inc](https://github.com/Findoss/Nord-owl/blob/master/components/%40Resources/Variables.inc)
 `Rainmeter/Skins/Nord-owl/@Resources/Variables.inc`
 
 ## Contributing
